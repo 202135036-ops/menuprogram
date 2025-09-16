@@ -179,7 +179,7 @@
                 <div class="checkout-box" id="checkout-box">
                     <h3>결제 안내</h3>
                     <p>입금 금액: <span id="final-amount"></span></p>
-                    <p>입금 계좌번호: <strong id="bank-account">국민은행 123456-78-987654</strong></p>
+                    <p>입금 계좌번호: <strong id="bank-account">카카오뱅크79421517732</strong></p>
                 </div>
             </div>
         </aside>
