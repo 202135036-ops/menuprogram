@@ -186,7 +186,7 @@
     </main>
 
     <footer>
-        제공: 기계공학과 야시장
+        제공: 기계공학과 학생회
     </footer>
 
     <script>
